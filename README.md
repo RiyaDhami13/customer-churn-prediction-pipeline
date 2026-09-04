@@ -30,4 +30,4 @@ An end-to-end Machine Learning pipeline designed to predict customer churn, quan
 ## 🚀 Quickstart
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/customer-churn-prediction-pipeline.git](https://github.com/YOUR_USERNAME/customer-churn-prediction-pipeline.git)
+   git clone (https://github.com/RiyaDhami13/customer-churn-prediction-pipeline.git)
